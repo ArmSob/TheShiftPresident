@@ -1,0 +1,156 @@
+{
+  "generated_at": "2026-01-01T00:00:00Z",
+  "mock": true,
+  "themes": [
+    {
+      "id": "sante",
+      "label": "Santé",
+      "icon": "HeartPulse",
+      "description": "Décarboner le système de soins et le rendre résilient face aux chocs climatiques et énergétiques.",
+      "report": "PTEF – Santé (mock)",
+      "recommendations": [
+        {
+          "id": "sante-1",
+          "title": "Réduire l'empreinte carbone des établissements de soins",
+          "explanation": "Rénovation énergétique des hôpitaux et pilotage des consommations pour réduire fortement les émissions du secteur.",
+          "page": 42
+        },
+        {
+          "id": "sante-2",
+          "title": "Développer la prévention et la santé environnementale",
+          "explanation": "Reporter une part des dépenses curatives vers la prévention (alimentation, activité physique, qualité de l'air).",
+          "page": 57
+        },
+        {
+          "id": "sante-3",
+          "title": "Sécuriser l'approvisionnement en médicaments essentiels",
+          "explanation": "Relocaliser la production des médicaments d'intérêt thérapeutique majeur.",
+          "page": 63
+        }
+      ]
+    },
+    {
+      "id": "agriculture",
+      "label": "Agriculture",
+      "icon": "Wheat",
+      "description": "Faire évoluer les pratiques agricoles pour réduire les émissions et renforcer la sécurité alimentaire.",
+      "report": "PTEF – Agriculture (mock)",
+      "recommendations": [
+        {
+          "id": "agriculture-1",
+          "title": "Réduire l'usage des engrais de synthèse",
+          "explanation": "Baisser la dépendance aux engrais azotés, source majeure de N₂O et dépendants du gaz.",
+          "page": 31
+        },
+        {
+          "id": "agriculture-2",
+          "title": "Accompagner la transition des élevages",
+          "explanation": "Réduire progressivement le cheptel et réorienter vers des systèmes herbagers.",
+          "page": 35
+        },
+        {
+          "id": "agriculture-3",
+          "title": "Installer 400 000 agriculteurs supplémentaires",
+          "explanation": "Renouveler les générations et soutenir des exploitations à taille humaine.",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "id": "mobilite",
+      "label": "Mobilité",
+      "icon": "Bike",
+      "description": "Réduire la dépendance au pétrole : report modal, sobriété et électrification.",
+      "report": "PTEF – Mobilité quotidienne (mock)",
+      "recommendations": [
+        {
+          "id": "mobilite-1",
+          "title": "Doubler la part du vélo et de la marche",
+          "explanation": "Aménagements cyclables sécurisés et politique d'urbanisme de proximité.",
+          "page": 22
+        },
+        {
+          "id": "mobilite-2",
+          "title": "Développer les transports collectifs et le covoiturage",
+          "explanation": "Renforcer l'offre ferroviaire régionale et les lignes de bus express.",
+          "page": 28
+        },
+        {
+          "id": "mobilite-3",
+          "title": "Électrifier et alléger le parc automobile",
+          "explanation": "Favoriser des véhicules plus légers et sobres, plutôt que des SUV lourds.",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "industrie",
+      "label": "Industrie",
+      "icon": "Factory",
+      "description": "Décarboner l'industrie lourde et relocaliser des chaînes de valeur stratégiques.",
+      "report": "PTEF – Industrie manufacturière (mock)",
+      "recommendations": [
+        {
+          "id": "industrie-1",
+          "title": "Décarboner l'acier, le ciment et la chimie",
+          "explanation": "Électrification des procédés, hydrogène bas carbone et captage ciblé.",
+          "page": 18
+        },
+        {
+          "id": "industrie-2",
+          "title": "Développer l'économie circulaire",
+          "explanation": "Recyclage, réemploi et écoconception pour réduire la demande en matières premières.",
+          "page": 26
+        },
+        {
+          "id": "industrie-3",
+          "title": "Relocaliser les filières stratégiques",
+          "explanation": "Batteries, renouvelables, électronique : réduire la dépendance extérieure.",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "logement",
+      "label": "Logement",
+      "icon": "Home",
+      "description": "Rénover massivement le parc bâti et limiter l'artificialisation.",
+      "report": "PTEF – Logement (mock)",
+      "recommendations": [
+        {
+          "id": "logement-1",
+          "title": "Rénover 700 000 logements par an",
+          "explanation": "Rénovations performantes en priorité sur les passoires thermiques.",
+          "page": 15
+        },
+        {
+          "id": "logement-2",
+          "title": "Sortir du chauffage au fioul et au gaz",
+          "explanation": "Remplacer par pompes à chaleur, réseaux de chaleur et biomasse.",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "id": "energie",
+      "label": "Énergie",
+      "icon": "Zap",
+      "description": "Sortir des énergies fossiles en articulant sobriété, nucléaire et renouvelables.",
+      "report": "PTEF – Énergie (mock)",
+      "recommendations": [
+        {
+          "id": "energie-1",
+          "title": "Planifier la sortie du pétrole, du gaz et du charbon",
+          "explanation": "Trajectoire contraignante de baisse de la consommation d'énergies fossiles.",
+          "page": 12
+        },
+        {
+          "id": "energie-2",
+          "title": "Accélérer les renouvelables électriques",
+          "explanation": "Solaire, éolien terrestre et en mer pour couvrir la hausse de demande d'électricité.",
+          "page": 33
+        }
+      ]
+    }
+  ]
+}

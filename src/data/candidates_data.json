@@ -1,0 +1,434 @@
+{
+  "generated_at": "2026-01-01T00:00:00Z",
+  "mock": true,
+  "candidates": [
+    {
+      "id": "candidat-a",
+      "name": "Candidate Alpha (fictif)",
+      "party": "Parti Écologie Fictive",
+      "color": "#059669",
+      "positions": {
+        "sante-1": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 10
+          }
+        },
+        "sante-2": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 13
+          }
+        },
+        "sante-3": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 16
+          }
+        },
+        "agriculture-1": {
+          "status": "absent",
+          "summary": "Le sujet n'est pas abordé dans le programme. (donnée factice)"
+        },
+        "agriculture-2": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 22
+          }
+        },
+        "agriculture-3": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 25
+          }
+        },
+        "mobilite-1": {
+          "status": "contraire",
+          "summary": "Le programme défend une orientation opposée à la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 28
+          }
+        },
+        "mobilite-2": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 31
+          }
+        },
+        "mobilite-3": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 34
+          }
+        },
+        "industrie-1": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 37
+          }
+        },
+        "industrie-2": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 40
+          }
+        },
+        "industrie-3": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 43
+          }
+        },
+        "logement-1": {
+          "status": "absent",
+          "summary": "Absent du programme, mais déclaration publique trouvée par l'agent web (donnée factice).",
+          "source": {
+            "type": "web",
+            "url": "https://example.org/interview-factice",
+            "label": "Interview factice (mock)",
+            "date": "2026-03-15"
+          }
+        },
+        "logement-2": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 49
+          }
+        },
+        "energie-1": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 52
+          }
+        },
+        "energie-2": {
+          "status": "contraire",
+          "summary": "Le programme défend une orientation opposée à la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 55
+          }
+        }
+      }
+    },
+    {
+      "id": "candidat-b",
+      "name": "Candidat Bravo (fictif)",
+      "party": "Union Fictive du Centre",
+      "color": "#2563eb",
+      "positions": {
+        "sante-1": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 10
+          }
+        },
+        "sante-2": {
+          "status": "absent",
+          "summary": "Le sujet n'est pas abordé dans le programme. (donnée factice)"
+        },
+        "sante-3": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 16
+          }
+        },
+        "agriculture-1": {
+          "status": "contraire",
+          "summary": "Le programme défend une orientation opposée à la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 19
+          }
+        },
+        "agriculture-2": {
+          "status": "contraire",
+          "summary": "Le programme défend une orientation opposée à la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 22
+          }
+        },
+        "agriculture-3": {
+          "status": "absent",
+          "summary": "Le sujet n'est pas abordé dans le programme. (donnée factice)"
+        },
+        "mobilite-1": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 28
+          }
+        },
+        "mobilite-2": {
+          "status": "absent",
+          "summary": "Le sujet n'est pas abordé dans le programme. (donnée factice)"
+        },
+        "mobilite-3": {
+          "status": "contraire",
+          "summary": "Le programme défend une orientation opposée à la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 34
+          }
+        },
+        "industrie-1": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 37
+          }
+        },
+        "industrie-2": {
+          "status": "contraire",
+          "summary": "Le programme défend une orientation opposée à la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 40
+          }
+        },
+        "industrie-3": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 43
+          }
+        },
+        "logement-1": {
+          "status": "contraire",
+          "summary": "Le programme défend une orientation opposée à la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 46
+          }
+        },
+        "logement-2": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 49
+          }
+        },
+        "energie-1": {
+          "status": "absent",
+          "summary": "Absent du programme, mais déclaration publique trouvée par l'agent web (donnée factice).",
+          "source": {
+            "type": "web",
+            "url": "https://example.org/interview-factice",
+            "label": "Interview factice (mock)",
+            "date": "2026-03-15"
+          }
+        },
+        "energie-2": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 55
+          }
+        }
+      }
+    },
+    {
+      "id": "candidat-c",
+      "name": "Candidate Charlie (fictive)",
+      "party": "Rassemblement Fictif",
+      "color": "#dc2626",
+      "positions": {
+        "sante-1": {
+          "status": "contraire",
+          "summary": "Le programme défend une orientation opposée à la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 10
+          }
+        },
+        "sante-2": {
+          "status": "absent",
+          "summary": "Le sujet n'est pas abordé dans le programme. (donnée factice)"
+        },
+        "sante-3": {
+          "status": "contraire",
+          "summary": "Le programme défend une orientation opposée à la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 16
+          }
+        },
+        "agriculture-1": {
+          "status": "contraire",
+          "summary": "Le programme défend une orientation opposée à la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 19
+          }
+        },
+        "agriculture-2": {
+          "status": "absent",
+          "summary": "Absent du programme, mais déclaration publique trouvée par l'agent web (donnée factice).",
+          "source": {
+            "type": "web",
+            "url": "https://example.org/interview-factice",
+            "label": "Interview factice (mock)",
+            "date": "2026-03-15"
+          }
+        },
+        "agriculture-3": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 25
+          }
+        },
+        "mobilite-1": {
+          "status": "absent",
+          "summary": "Absent du programme, mais déclaration publique trouvée par l'agent web (donnée factice).",
+          "source": {
+            "type": "web",
+            "url": "https://example.org/interview-factice",
+            "label": "Interview factice (mock)",
+            "date": "2026-03-15"
+          }
+        },
+        "mobilite-2": {
+          "status": "contraire",
+          "summary": "Le programme défend une orientation opposée à la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 31
+          }
+        },
+        "mobilite-3": {
+          "status": "absent",
+          "summary": "Absent du programme, mais déclaration publique trouvée par l'agent web (donnée factice).",
+          "source": {
+            "type": "web",
+            "url": "https://example.org/interview-factice",
+            "label": "Interview factice (mock)",
+            "date": "2026-03-15"
+          }
+        },
+        "industrie-1": {
+          "status": "absent",
+          "summary": "Le sujet n'est pas abordé dans le programme. (donnée factice)"
+        },
+        "industrie-2": {
+          "status": "compatible",
+          "summary": "Le programme reprend une mesure alignée avec la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 40
+          }
+        },
+        "industrie-3": {
+          "status": "contraire",
+          "summary": "Le programme défend une orientation opposée à la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 43
+          }
+        },
+        "logement-1": {
+          "status": "absent",
+          "summary": "Absent du programme, mais déclaration publique trouvée par l'agent web (donnée factice).",
+          "source": {
+            "type": "web",
+            "url": "https://example.org/interview-factice",
+            "label": "Interview factice (mock)",
+            "date": "2026-03-15"
+          }
+        },
+        "logement-2": {
+          "status": "contraire",
+          "summary": "Le programme défend une orientation opposée à la recommandation. (donnée factice)",
+          "quote": "« Extrait factice du programme illustrant la position. »",
+          "source": {
+            "type": "programme",
+            "page": 49
+          }
+        },
+        "energie-1": {
+          "status": "absent",
+          "summary": "Absent du programme, mais déclaration publique trouvée par l'agent web (donnée factice).",
+          "source": {
+            "type": "web",
+            "url": "https://example.org/interview-factice",
+            "label": "Interview factice (mock)",
+            "date": "2026-03-15"
+          }
+        },
+        "energie-2": {
+          "status": "absent",
+          "summary": "Le sujet n'est pas abordé dans le programme. (donnée factice)"
+        }
+      }
+    }
+  ]
+}

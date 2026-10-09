@@ -1,0 +1,21 @@
+# 🚨 RÈGLE CRITIQUE : Ignorer TOUS les documents PDF 
+# Empêche l'IA de lire les rapports du Shift Project et de ruiner ton budget API
+*.pdf
+
+# Ignorer les environnements virtuels Python
+venv/
+.venv/
+env/
+
+# Ignorer les dépendances du frontend React
+node_modules/
+
+# Ignorer les variables d'environnement (pour ne pas fuiter tes clés API)
+.env
+.env.*
+
+# Ignorer les dossiers système, Git et les dossiers de build
+.git/
+dist/
+build/
+.DS_Store
